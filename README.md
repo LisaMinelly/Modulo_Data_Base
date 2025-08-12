@@ -147,4 +147,3 @@ ORDER BY t.transaction_date DESC;
 ## 👤 Developer Info
 - **Name:** Lisa Minelly Sanchez Diaz
 - **Clan:** Gosling
-- **Email:** your.email@example.com
